@@ -1,0 +1,27 @@
+/* App.css */
+ 
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+}
+ 
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+}
+
+h2 {   /* Pour mettre la colour à Resultat */
+
+}
+
+h4 {     /* Pour mettre la coleur au score */
+
+}
+
+label {
+  cursor: pointer;
+}
+
+input.radio {
+  cursor: pointer;
+}
